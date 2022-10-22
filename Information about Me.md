@@ -1,10 +1,10 @@
 # About Me
-I am an outgoing and an overall kind human being. 
+I am an outgoing and an overall kind human being.
 As well as being outgoing I feel that I tend to 
-hide in my shell sometimes as well if I don't know
-anyone that I am around. But in general I am a kind  
-person who even when surrounded by strangers is a 
-kind face. 
+hide in my shell sometimes as well if I don't 
+know anyone that I am around. But in general 
+I am a kind person who even when surrounded 
+by strangers. 
 
 ## Hobbies
 I have a few hobbies some more common than most
