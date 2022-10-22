@@ -1,6 +1,9 @@
-# All about Tanner Pack
+# Mid Term Project
 
 ## Reason for this [web page](https://github.com/Tpack12/Midterm-Project/edit/main/Reason-for-web-page.md)
+
+I have created this personal webpage as a midterm project.
+But also to display information about myself.
 
 ### It is important that I am creating this webpage because it will..
 1. Count for a grade as my midterm.
