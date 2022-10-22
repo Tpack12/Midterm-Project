@@ -10,3 +10,5 @@ But also to display information about myself.
 2. Will also improve my skills with the usage of markdown.
 
 #### Click [here](https://github.com/Tpack12/Midterm-Project/edit/main/Information-about-Me.md) for general backround knowledge about me...
+
+#### If you'd rather learn more about my studies at the [_Univeristy of Missouri_](https://missouri.edu) then click [here]().
