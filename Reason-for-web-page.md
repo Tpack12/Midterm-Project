@@ -16,6 +16,8 @@ some good things to know about it are...
 3. Is easier to learn
 4. Takes less time to create something
 
+If you would like to return to the **home page** click [here](https://github.com/Tpack12/Midterm-Project/edit/main/README.md).
+
 
 
 
