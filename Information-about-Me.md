@@ -34,5 +34,5 @@ I also enjoy the following as well...
   * Doritos
   * Anything Mexican food related
 
-
+If you would like to return to the **home page** click [here](https://github.com/Tpack12/Midterm-Project/edit/main/README.md).
  
