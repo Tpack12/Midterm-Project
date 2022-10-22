@@ -1,6 +1,6 @@
 # All about Tanner Pack
 
-## Reason for this web page
+## Reason for this [web page]()
 This web page is being created as my midterm project for _INFOTC-1000_.
 The information that is shared on the following pages is all about me, 
 my interests and other information in general that relates to me.
