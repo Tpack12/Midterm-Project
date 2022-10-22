@@ -17,13 +17,22 @@ but here is a short list of what I enjoy doing...
   * Call of Duty
   * Valorant
  <img src="https://cdn.mos.cms.futurecdn.net/nyhXya3jDwWbXB4ej4dBbi-1200-80.jpg" alt="Xbox Logo" width="100"/>
+ <img src="https://www.logolynx.com/images/logolynx/84/8425fcb1556ef1e2ba2677129ae3c54a.jpeg" alt="Alienware Logo" width="100"/>
 
 That's just a short list of video games I play,
 I also enjoy the following as well...
 
 * Sports
+  * Soccer
+  * Football
+  * Boxing
+  * Baseball
 
 * Food
+  * Chicken
+  * Steak
+  * Doritos
+  * Anything Mexican food related
 
 
  
