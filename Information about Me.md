@@ -1,4 +1,4 @@
-#About Me
+# About Me
 I am an outgoing and an overall kind human being.
 As well as being outgoing I feel that I tend to 
 hide in my shell sometimes as well if I don't know 
@@ -6,23 +6,23 @@ anyone that I am around. But in general I am a kind
 person who even when surrounded by strangers is a
 kind face.
 
-##Hobbies
+## Hobbies
 I have a few hobbies some more common than most
 but here is a short list of what I enjoy doing...
 
-*Gaming
- *League of Legends
- *Fifa
- *Madden
- *Call of Duty
- *Valorant
+* Gaming
+ * League of Legends
+ * Fifa
+ * Madden
+ * Call of Duty
+ * Valorant
 
 That's just a short list of video games I play,
 I also enjoy the following as well...
 
-*Sports
+* Sports
 
-*Food
+* Food
 
 
  
