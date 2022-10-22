@@ -11,11 +11,12 @@ I have a few hobbies some more common than most
 but here is a short list of what I enjoy doing...
 
 * Gaming
- * League of Legends
- * Fifa
- * Madden
- * Call of Duty
- * Valorant
+  * League of Legends
+  * Fifa
+  * Madden
+  * Call of Duty
+  * Valorant
+ <img src="https://cdn.mos.cms.futurecdn.net/nyhXya3jDwWbXB4ej4dBbi-1200-80.jpg" alt="Xbox Logo" width="100"/>
 
 That's just a short list of video games I play,
 I also enjoy the following as well...
