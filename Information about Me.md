@@ -1,7 +1,7 @@
 # About Me
 I am an outgoing and an overall kind human being. 
 As well as being outgoing I feel that I tend to 
-hide in my shell sometimes as well if I don't know  
+hide in my shell sometimes as well if I don't know
 anyone that I am around. But in general I am a kind  
 person who even when surrounded by strangers is a 
 kind face. 
