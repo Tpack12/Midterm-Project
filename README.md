@@ -13,4 +13,4 @@ But also to display information about myself.
 
 #### If you'd rather learn more about my studies at the [_Univeristy of Missouri_](https://missouri.edu) then click [here](https://github.com/Tpack12/Midterm-Project/edit/main/Studies.md).
 
-<img src="https://github.com/Tpack12/Midterm-Project/edit/main/" alt="Jesse Hall and the Columns" width="200"/>
+<img src="https://github.com/Tpack12/Midterm-Project/edit/main/Jesse Hall and the Columns.jpg" alt="Jesse Hall and the Columns" width="200"/>
