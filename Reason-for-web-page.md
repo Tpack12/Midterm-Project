@@ -11,6 +11,8 @@ Finally I feel this webpage will also help anyone who sees it learn about me.
 As far as markdown is concerned though I feel it is a useful language and  
 some good things to know about it are...
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/263px-Markdown-mark.svg.png" alt"Markdown Logo" width="200">
+
 1. Is a simpler choice compared to HTML
 2. Is easier to understand
 3. Is easier to learn
